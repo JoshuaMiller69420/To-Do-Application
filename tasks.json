@@ -1,0 +1,18 @@
+[
+    {
+        "room": [
+            {
+                "task": "clean your room",
+                "state": "needs done"
+            }
+        ]
+    },
+    {
+        "dishes": [
+            {
+                "task": "clean the dishes",
+                "state": "needs done"
+            }
+        ]
+    }
+]
